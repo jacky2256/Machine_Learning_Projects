@@ -1,1 +1,2 @@
-This is the repository where my projects in the machine area are located
+This is the repository where my projects in the Machine Learning area are located.
+
